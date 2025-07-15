@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class IdCard
+public class YourDetails
 {
     public static void main(String[]args)
     {
